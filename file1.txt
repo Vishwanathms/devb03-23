@@ -2,5 +2,5 @@
 2nd line added in local b1
 3rd line added in remote master
 4th line added in local b1 
-
+5th line added in remote b2
 
